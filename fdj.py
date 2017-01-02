@@ -5,6 +5,8 @@ from random import randint
 import io
 
 
+
+
 class Payload(object):
      def __init__(self, j):
          self.__dict__ = json.loads(j)
