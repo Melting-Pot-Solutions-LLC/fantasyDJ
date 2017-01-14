@@ -1,0 +1,46 @@
+YourApp is multi purpose presentation theme.
+
+
+[THEME FEATURES:]
+
+Bootstrap 3.6 based
+Bootstrap grid
+W3C Valid source code
+Fully Responsive design
+Easy to customise
+Commented and clean code
+Selective, Clean and Stylish design
+Smooth CSS animation
+Toggle screen effects
+
+
+
+[HOW TO USE]
+
+Template consist of:
+Main Page 				/index.html
+-----------------------------------------------------------------------
+
+Page use general CSS and JS files:
+https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js
+js/bootstrap.min.js
+js/core.js
+
+css/bootstrap.css - bootstrap core
+css/main.css - stylesheet for PCs
+css/phone.css - stylesheet for phones
+css/tablet.css - stylesheet for tablets
+
+
+Also require custom files:
+css/carousel.css
+js/carousel.js
+
+-----------------------------------------------------------------------
+
+For use Mousewheel and TouchSwipe You can plug in:
+
+https://github.com/jquery/jquery-mousewheel
+https://github.com/mattbryson/TouchSwipe-Jquery-Plugin
+
+-----------------------------------------------------------------------
